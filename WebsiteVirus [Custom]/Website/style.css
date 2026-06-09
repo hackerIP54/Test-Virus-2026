@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #121212;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  text-align: center;
+  padding: 25px;
+  background: #1e1e1e;
+  border-radius: 10px;
+  width: 300px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  background: #00a2ff;
+  color: white;
+  border-radius: 6px;
+}
