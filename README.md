@@ -9,7 +9,26 @@ Testing: Exploit, Malware, Trojaner, Worms, Ransomware, Spyware, Macro Viruses /
 
 
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Status](https://img.shields.io/badge/Status-OK-Green)
 
    
